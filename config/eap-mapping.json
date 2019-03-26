@@ -1,6 +1,6 @@
 [
   {
-    "name": "OTLnetwerktypes",
+    "name": "OTLnetwerktypes-ap",
     "type": "ap",
     "eap": "OSLO-Netwerktypes3-AP.eap",
     "diagram": "OSLO-Netwerktypes",
