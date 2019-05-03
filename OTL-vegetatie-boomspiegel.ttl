@@ -4,8 +4,8 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
 <https://data.vlaanderen.be/id/conceptscheme/OTL-Vegetatie-Boomspiegel> a skos:ConceptScheme;
-  dct:description "De verschillende opties van type boomspiegels"@nl;
-  dct:title "Boomspiegel"@nl.
+  skos:definition "De verschillende opties van type boomspiegels"@nl;
+  skos:prefLabel "Boomspiegel"@nl.
 
 <https://data.vlaanderen.be/id/concept/OTL-Vegetatie-Boomspiegel/gras> a skos:Concept;
   skos:definition "De boomspiegel bestaat voornamelijk uit grazige vegetatie die gemaaid kan worden"@nl;
