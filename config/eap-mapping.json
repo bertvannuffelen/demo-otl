@@ -1,24 +1,13 @@
 [
   {
-    "name": "OTLnetwerktypes-ap",
+    "name": "OSLO-OTL-VerhardingFundering-AP",
     "type": "ap",
-    "eap": "OSLO-Netwerktypes3-AP.eap",
-    "diagram": "OSLO-Netwerktypes",
+    "eap": "OSLO-OTL-VerhardingFundering-AP.eap",
+    "diagram": "OSLO-OTL-VerhardingFundering",
     "template": "otl-ap.j2",
     "title": "OTL Netwerktypes",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-03-27",
-    "contributors-file": "stakeholders.csv",
-    "contributors-column": "OTL",
-    "site": "site-skeleton"
-  },{
-    "name": "OTLnetwerktypes",
-    "type": "voc",
-    "eap": "OSLO-Netwerktypes3-VOC.eap",
-    "diagram": "OSLO-Netwerktypes",
-    "template": "otl-voc.j2",
-    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-03-27",
+    "publication-date": "2019-05-13",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
