@@ -2,7 +2,7 @@
   {
     "name": "OSLO-OTL-VerhardingFundering-AP",
     "type": "ap",
-    "eap": "OSLO-OTL-VerhardingFundering-AP.eap",
+    "eap": "OSLO-OTL-VerhardingFundering.eap",
     "diagram": "OSLO-OTL-VerhardingFundering",
     "template": "otl-ap.j2",
     "title": "Verharding en Fundering",
@@ -15,7 +15,7 @@
     {
     "name": "OSLO-OTL-VerhardingFundering-VOC",
     "type": "voc",
-    "eap": "OSLO-OTL-VerhardingFundering-VOC.eap",
+    "eap": "OSLO-OTL-VerhardingFundering.eap",
     "diagram": "OSLO-OTL-VerhardingFundering",
     "template": "otl-voc.j2",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
