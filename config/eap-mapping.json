@@ -13,10 +13,10 @@
     "site": "site-skeleton"
   },
     {
-    "name": "OSLO-OTL-VerhardingFundering-VOC",
+    "name": "OSLO-OTL-Vocabularium",
     "type": "voc",
     "eap": "OSLO-OTL-VerhardingFundering.eap",
-    "diagram": "OSLO-OTL-VerhardingFundering",
+    "diagram": "OSLO-OTL-Vocabularium",
     "template": "otl-voc.j2",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
     "publication-date": "2019-05-13",
