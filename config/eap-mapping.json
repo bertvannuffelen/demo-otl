@@ -35,5 +35,18 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
+  },
+    {
+    "name": "OSLO-OTL-SUPERAP",
+    "type": "ap",
+    "eap": "OSLO-OTL-VerhardingFundering-AP.eap",
+    "diagram": "OSLO-OTL-Vocabularium",
+    "template": "otl-ap.j2",	
+    "title": "OTL Super Applicatieprofiel",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-05-13",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
   }
 ]
