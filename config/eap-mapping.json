@@ -13,7 +13,19 @@
     "site": "site-skeleton"
   },
     {
-    "name": "OSLO-OTL-Vocabularium",
+    "name": "OSLO-OTL-VOC-1",
+    "type": "voc",
+    "eap": "OSLO-OTL-VerhardingFundering-AP.eap",
+    "diagram": "OSLO-OTL-Vocabularium",
+    "template": "otl-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-05-13",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  },
+    {
+    "name": "OSLO-OTL-VOC-2",
     "type": "voc",
     "eap": "OSLO-OTL-VOC.eap",
     "diagram": "OSLO-OTL-Vocabularium",
