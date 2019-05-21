@@ -2,7 +2,7 @@
   {
     "name": "OSLO-OTL-Grondwerken",
     "type": "ap",
-    "eap": "OTLV4-AP.eap",
+    "eap": "OTLV5-AP.eap",
     "diagram": "OSLO-OTL-Grondwerken",
     "template": "otl-ap.j2",
     "title": "SB250 - Grondwerken",
@@ -15,7 +15,7 @@
   {
     "name": "OSLO-OTL-LijnvormigeElementen",
     "type": "ap",
-    "eap": "OTLV4-AP.eap",
+    "eap": "OTLV5-AP.eap",
     "diagram": "OSLO-OTL-LijnvormigeElementen",
     "template": "otl-ap.j2",
     "title": "SB250 - Lijnvormige Elementen",
@@ -28,7 +28,7 @@
   {
     "name": "OSLO-OTL-Proeven",
     "type": "ap",
-    "eap": "OTLV4-AP.eap",
+    "eap": "OTLV5-AP.eap",
     "diagram": "OSLO-OTL-Proeven",
     "template": "otl-ap.j2",
     "title": "SB250 - Proeven",
@@ -41,7 +41,7 @@
   {
     "name": "OSLO-OTL-Rioleringen",
     "type": "ap",
-    "eap": "OTLV4-AP.eap",
+    "eap": "OTLV5-AP.eap",
     "diagram": "OSLO-OTL-Rioleringen",
     "template": "otl-ap.j2",
     "title": "SB250 - Riolering",
@@ -54,7 +54,7 @@
   {
     "name": "OSLO-OTL-Signalisatie",
     "type": "ap",
-    "eap": "OTLV4-AP.eap",
+    "eap": "OTLV5-AP.eap",
     "diagram": "OSLO-OTL-Signalisatie",
     "template": "otl-ap.j2",
     "title": "SB250 - Signalisatie",
@@ -67,7 +67,7 @@
   {
     "name": "OSLO-OTL-Vegetatie",
     "type": "ap",
-    "eap": "OTLV4-AP.eap",
+    "eap": "OTLV5-AP.eap",
     "diagram": "OSLO-OTL-Vegetatie",
     "template": "otl-ap.j2",
     "title": "SB250 - Vegetatie",
@@ -80,7 +80,7 @@
   {
     "name": "OSLO-OTL-VerhardingFundering",
     "type": "ap",
-    "eap": "OTLV4-AP.eap",
+    "eap": "OTLV5-AP.eap",
     "diagram": "OSLO-OTL-VerhardingFundering",
     "template": "otl-ap.j2",
     "title": "Verharding en Fundering",
@@ -93,7 +93,7 @@
   {
     "name": "OSLO-OTL-Waterlopen",
     "type": "ap",
-    "eap": "OTLV4-AP.eap",
+    "eap": "OTLV5-AP.eap",
     "diagram": "OSLO-OTL-Waterlopen",
     "template": "otl-ap.j2",
     "title": "SB250 - Waterlopen",
@@ -106,7 +106,7 @@
     {
     "name": "OSLO-OTL-VOC",
     "type": "voc",
-    "eap": "OTLV4-VOC.eap",
+    "eap": "OTLV5-VOC.eap",
     "diagram": "OTL-VOC",
     "template": "otl-voc.j2",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
