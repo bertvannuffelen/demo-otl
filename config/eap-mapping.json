@@ -1,9 +1,21 @@
-[
+[  {
+    "name": "verhardingen-funderingen",
+    "type": "ap",
+    "eap": "OTLv6 VOCAP.eap",
+    "diagram": "OSLO-VerhardingenFunderingen",
+    "template": "otl-ap.j2",
+    "title": "Verharding en Fundering",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-05-13",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  },
     {
     "name": "wegenenverkeer-onderdelen",
     "type": "voc",
 	"prefix": "wegenenverkeer",
-    "eap": "OTLv6 - VOC",
+    "eap": "OTLv6 VOCAP.eap",
     "diagram": "OSLO-Onderdeel",
     "template": "otl-voc.j2",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
