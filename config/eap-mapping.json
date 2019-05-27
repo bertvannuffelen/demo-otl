@@ -3,7 +3,7 @@
     "name": "wegenenverkeer-onderdelen",
     "type": "voc",
 	"prefix": "wegenenverkeer",
-    "eap": "OTLv6.eap",
+    "eap": "OTLv6 - VOC",
     "diagram": "OSLO-Onderdeel",
     "template": "otl-voc.j2",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
