@@ -1,4 +1,76 @@
-[ 
+[
+{
+    "name": "wegenenverkeer-onderdeel",
+    "type": "voc",
+	"prefix": "wegenenverkeer",
+    "eap": "OSLO-AWV-VOC.eap",
+    "diagram": "OSLO-Onderdeel",
+    "template": "otl-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-04",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  },  {
+    "name": "wegenenverkeer-abstracten",
+    "type": "voc",
+	"prefix": "wegenenverkeer",
+    "eap": "OSLO-AWV-VOC.eap",
+    "diagram": "OSLO-Abstracten",
+    "template": "otl-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-04",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  }, {
+    "name": "wegenenverkeer-installatie",
+    "type": "voc",
+	"prefix": "wegenenverkeer",
+    "eap": "OSLO-AWV-VOC.eap",
+    "diagram": "OSLO-Installatie",
+    "template": "otl-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-04",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  }, {
+    "name": "wegenenverkeer-levelofgeometry",
+    "type": "voc",
+	"prefix": "wegenenverkeer",
+    "eap": "OSLO-AWV-VOC.eap",
+    "template": "otl-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-04",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  },
+  {
+    "name": "wegenenverkeer-levenscyclus",
+    "type": "voc",
+    "eap": "OSLO-AWV-VOC.eap",
+    "diagram": "OSLO-Levenscyclus",
+    "template": "otl-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-04",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  },
+  {
+    "name": "wegenenverkeer-proefenmeting",
+    "type": "voc",
+    "eap": "OSLO-AWV-VOC.eap",
+    "diagram": "OSLO-Proefenmeting",
+    "template": "otl-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-04",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  },
 {
     "name": "grondwerken",
     "type": "ap",
