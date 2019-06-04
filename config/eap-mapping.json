@@ -93,7 +93,7 @@
   {
     "name": "awv-object",
     "type": "ap",
-    "eap": "OSLO-AWV_Object-AP",
+    "eap": "OSLO-AWV_Object-AP.eap",
     "diagram": "OSLO-AWV_Object",
     "template": "otl-ap.j2",
     "title": "AWV Object",
