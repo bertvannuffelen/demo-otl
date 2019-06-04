@@ -89,5 +89,18 @@
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
+  },
+  {
+    "name": "awv-object",
+    "type": "ap",
+    "eap": "OSLO-AWV_Object-AP",
+    "diagram": "OSLO-AWV_Object",
+    "template": "otl-ap.j2",
+    "title": "AWV Object",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-03",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
   }
  ]
