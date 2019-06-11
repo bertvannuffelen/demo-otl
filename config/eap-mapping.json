@@ -72,7 +72,7 @@
     "site": "site-skeleton"
   },
     {
-    "name": "wegenenverkeer-iplementatieelement",
+    "name": "wegenenverkeer-implementatieelement",
     "type": "voc",
     "eap": "OSLO-AWV-VOC.eap",
     "diagram": "OSLO-Implementatieelement",
