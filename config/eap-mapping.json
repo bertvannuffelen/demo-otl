@@ -71,6 +71,29 @@
     "contributors-column": "OTL",
     "site": "site-skeleton"
   },
+    {
+    "name": "wegenenverkeer-iplementatieelement",
+    "type": "voc",
+    "eap": "OSLO-AWV-VOC.eap",
+    "diagram": "OSLO-Implementatieelement",
+    "template": "otl-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-11",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  },  {
+    "name": "wegenenverkeer-generiek",
+    "type": "voc",
+    "eap": "OSLO-AWV-VOC.eap",
+    "diagram": "OSLO-Generiek",
+    "template": "otl-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-11",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  },    
 {
     "name": "grondwerken",
     "type": "ap",
@@ -79,7 +102,7 @@
     "template": "otl-ap.j2",
     "title": "V12 - SB250 Grondwerken",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-06-07",
+    "publication-date": "2019-06-11",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
@@ -92,7 +115,7 @@
     "template": "otl-ap.j2",
     "title": "V12 - SB250 Lijnvormige elementen",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-06-07",
+    "publication-date": "2019-06-11",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
@@ -105,7 +128,7 @@
     "template": "otl-ap.j2",
     "title": "V12 - SB250 Riolering",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-06-07",
+    "publication-date": "2019-06-11",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
@@ -118,7 +141,7 @@
     "template": "otl-ap.j2",
     "title": "V12 - SB250 Signalisatie",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-06-07",
+    "publication-date": "2019-06-11",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
@@ -131,7 +154,7 @@
     "template": "otl-ap.j2",
     "title": "V12 - SB250 Vegetatie",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-06-07",
+    "publication-date": "2019-06-11",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
@@ -144,7 +167,7 @@
     "template": "otl-ap.j2",
     "title": "V12 - SB250 Verharding en Fundering",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-06-07",
+    "publication-date": "2019-06-11",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
@@ -157,7 +180,7 @@
     "template": "otl-ap.j2",
     "title": "V12 - SB250 Waterlopen",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-06-07",
+    "publication-date": "2019-06-11",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
@@ -168,9 +191,9 @@
     "eap": "OSLO-Proeven-metingen-AP.eap",
     "diagram": "OSLO-Proeven-metingen",
     "template": "otl-ap.j2",
-    "title": "V12 - SB250 Waterlopen",
+    "title": "V12 - SB250 Proeven en metingen",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-06-07",
+    "publication-date": "2019-06-11",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
@@ -181,11 +204,49 @@
     "eap": "OSLO-AWV_Object-AP.eap",
     "diagram": "OSLO-AWV_Object",
     "template": "otl-ap.j2",
-    "title": "AWV Object",
+    "title": "V12 - AWV Object",
     "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "2019-06-07",
+    "publication-date": "2019-06-11",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  },
+  {
+    "name": "rioleringsgroepering",
+    "type": "ap",
+    "eap": "OSLO-Rioleringsgroepering-AP.eap",
+    "diagram": "OSLO-Rioleringsgroepering",
+    "template": "otl-ap.j2",
+    "title": "V12 - Rioleringsgroepering",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-11",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  },  {
+    "name": "eenvoudige-datatypes",
+    "type": "ap",
+    "eap": "OSLO-Eenvoudige_datatypes-AP.eap",
+    "diagram": "OSLO-Eenvoudige_datatypes",
+    "template": "otl-ap.j2",
+    "title": "V12 - Eenvoudige datatypes",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-11",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "OTL",
+    "site": "site-skeleton"
+  }, {
+    "name": "relaties",
+    "type": "ap",
+    "eap": "OSLO-Relaties-AP.eap",
+    "diagram": "OSLO-Relaties",
+    "template": "otl-ap.j2",
+    "title": "V12 - Relaties",
+    "publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "2019-06-11",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "OTL",
     "site": "site-skeleton"
   }
+
  ]
